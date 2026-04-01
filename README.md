@@ -1,8 +1,5 @@
-As imagens ficaram espetaculares! Elas passam uma imagem de extremo profissionalismo e precisão técnica. Para o seu GitHub, vamos usar uma organização que destaca essas imagens logo no início, servindo como um "manual" visual do seu projeto.
 
-Aqui está o novo arquivo **README.md** otimizado:
 
----
 
 # 🌡️ Controlador Térmico Inteligente (Raspberry Pi + Java)
 
